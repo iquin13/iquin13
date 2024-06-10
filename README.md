@@ -16,7 +16,7 @@ Soy un Data Analyst con un EMBA
 
 ## Conéctate Conmigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue)]([https://www.linkedin.com/in/ivan-quintana/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue)](https://www.linkedin.com/in/ivan-quintana)
 
 <!--
 **iquin13/iquin13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
