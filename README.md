@@ -1,4 +1,7 @@
-## Hi there 👋
+# ¡Hola! 👋 Soy [Ivan]
+
+Soy [un Data Analyst con un EMBA].
+
 
 Bienvenidos a mi perfil!
 
