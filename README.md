@@ -5,6 +5,8 @@ Soy [un Data Analyst con un EMBA].
 
 Bienvenidos a mi perfil!
 
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=radical)
+
 <!--
 **iquin13/iquin13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
