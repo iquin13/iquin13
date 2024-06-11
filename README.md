@@ -17,12 +17,6 @@ Soy un Data Analyst con un EMBA
 
 ![Contribuciones por Lenguaje](https://quickchart.io/chart?c={type:'bar',data:{labels:['Python','JavaScript','Java'],datasets:[{label:'Commits',data:[30,20,15]}]}})
 
-## Estadísticas Detalladas de GitHub
-
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=radical)
-![Lenguajes más Usados](https://github-readme-stats.vercel.app/api/top-langs/?username=tuusuario&layout=compact&theme=radical)
-![Contribuciones](https://github-readme-streak-stats.herokuapp.com/?user=tuusuario&theme=radical)
-
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=radical)
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=tuusuario&layout=compact&theme=radical)
 ![Contribuciones](https://github-readme-streak-stats.herokuapp.com/?user=tuusuario&theme=radical)
